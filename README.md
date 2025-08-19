@@ -1,4 +1,4 @@
-# CALYPR Org Repo
+# Overview ⚙️
 
 This repo is used for storing templates that can be used for all repos in the CALYPR GitHub organzation.
 
@@ -9,3 +9,7 @@ This repo is used for storing templates that can be used for all repos in the CA
 > [GitHub docs: Customizing your organization's profile](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)
 
 Encountering issues committing or pushing? Check the [ruleset](https://github.com/calypr/.github/settings/rules/7522883) used to protect branches... 
+
+# Credits 🤝
+
+This effort was started (and adapted) by ongoing work done by @quinnwai at the Knight Cancer Institute!
