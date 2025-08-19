@@ -12,4 +12,4 @@ Encountering issues committing or pushing? Check the [ruleset](https://github.co
 
 # Credits 🤝
 
-This effort was started (and adapted) by ongoing work done by @quinnwai at the Knight Cancer Institute!
+This effort was started (and adapted) by ongoing work done by [@quinnwai](https://github.com/quinnwai) at the [Ellrott Lab](https://ellrottlab.org/) and [Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute)!
